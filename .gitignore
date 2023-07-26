@@ -1,0 +1,4 @@
+# tmp and cached
+*.pyc
+**/__pycache__/
+
