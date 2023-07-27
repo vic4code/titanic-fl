@@ -1,4 +1,5 @@
 # tmp and cached
+.ipynb_checkpoints
 *.pyc
 **/__pycache__/
 
